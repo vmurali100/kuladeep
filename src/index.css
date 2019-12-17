@@ -12,9 +12,6 @@ code {
     monospace;
 }
 
-.out:hover .myDiv {
-  display: block !important;
-}
 .myDiv li {
   list-style-type: none;
   margin: 10px 0;
